@@ -1,0 +1,115 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\assets\\scripts\\goaltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\goaltrigger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\assets\\scripts\\cameracontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\cameracontroller2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|c:\\users\\andre\\onedrive\\univalle\\game development\\raycastplatformer\\assets\\scripts\\playermovement2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playermovement2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|c:\\users\\andre\\onedrive\\univalle\\game development\\raycastplatformer\\assets\\scripts\\winscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4784A950-23A3-2B56-8D37-ABDD82E04541}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\winscenecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WinSceneController.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\WinSceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WinSceneController.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\WinSceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WinSceneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:52:14.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GoalTrigger.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\GoalTrigger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GoalTrigger.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\GoalTrigger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GoalTrigger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-21T01:20:04.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EnemyMovement.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMovement.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\EnemyMovement.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMovement.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T02:50:17.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CameraController2D.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\CameraController2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraController2D.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\CameraController2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CameraController2D.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:25:43.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerMovement2D.cs",
+              "DocumentMoniker": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\PlayerMovement2D.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerMovement2D.cs",
+              "ToolTip": "C:\\Users\\andre\\OneDrive\\Univalle\\Game Development\\RaycastPlatformer\\Assets\\Scripts\\PlayerMovement2D.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerMovement2D.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAYwFIAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:42:59.202Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
